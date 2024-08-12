@@ -14,7 +14,7 @@ Clone the repository, set up your environment variables, and let the server do i
 
 ---
 
-## **My Story: How I Took My Twitter Interaction Analysis Tool Open Source**
+## **Story Behind: How I Took My Twitter Interaction Analysis Tool Open Source**
 
 ### **The Beginning**
 It all started with a simple idea: to create a tool that could reveal who’s been interacting with your Twitter account the most. I thought it’d be a fun little side project—something to sharpen my skills while scratching that data curiosity itch. So, I dove in, and before long, I had a tool that fetched tweets, analyzed interactions, and gave users a crystal-clear view of who was liking, retweeting, and engaging with their content.
