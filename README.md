@@ -26,7 +26,7 @@ But, of course, nothing worth doing is ever easy. Enter Twitter’s API limitati
 Instead of letting the project gather dust, I decided to open-source it. Why not let the community take a crack at it? Maybe someone else could benefit, or maybe someone would be willing to shell out for Twitter’s API and push it further. 
 
 ### **Choosing the License**
-Next was the license. I wanted this tool to stay free and open, no matter what. Richard Stallman’s philosophy on free software resonated with me, so I chose the **GNU General Public License (GPL) v3**. This way, anyone who uses or builds on this tool has to keep it open and accessible to others.
+Next was the license. I wanted this tool to stay free and open, no matter what. Richard Stallman’s philosophy on free software resonated with me, so I chose the **GNU General Public License (GPL) v3**. This way, anyone who uses or builds on this tool has to keep it open and accessible to others. It works until where it works, future bugs are up to you.
 
 ### **The Outcome**
 And that’s how my Twitter tool went open source. It’s out there now, free for anyone to use, modify, or improve. Sure, it’s not as powerful as it could be without Twitter’s API fees, but it’s a solid foundation. If someone else wants to take it further, they can. That’s the beauty of open source—sharing, improving, and building on each other’s work.
