@@ -1,7 +1,7 @@
 /*
  * So, you’ve stumbled upon the Twitter Interaction Analysis project.
  * 
- * Copyright (C) [year] [your name] – because credit where credit is due.
+ * Copyright (C) 2024, @Sejindoesart – because credit where credit is due.
  *
  * This bad boy is free software: feel free to redistribute it, tweak it, or do whatever
  * else you want under the terms of the GNU General Public License as laid out by
